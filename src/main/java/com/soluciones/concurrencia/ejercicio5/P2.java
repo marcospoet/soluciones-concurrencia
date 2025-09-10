@@ -3,7 +3,7 @@ package com.soluciones.concurrencia.ejercicio5;
 public class P2 implements Runnable {
     public void run() {
         while (true) {
-            Ejercicio5a.semB.acquireUninterruptibly();
+            Ejercicio5a.semB.acquireUninterruptibly(1);
             System.out.println("B");
             Ejercicio5a.semA.release();
         }
