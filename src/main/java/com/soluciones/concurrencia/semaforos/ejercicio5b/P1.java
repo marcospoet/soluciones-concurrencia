@@ -1,4 +1,4 @@
-package com.soluciones.concurrencia.ejercicio5b;
+package com.soluciones.concurrencia.semaforos.ejercicio5b;
 
 public class P1 implements Runnable {
     public void run() {

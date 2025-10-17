@@ -1,4 +1,4 @@
-package com.soluciones.concurrencia.ejercicio6;
+package com.soluciones.concurrencia.semaforos.ejercicio6;
 
 public class P1  implements Runnable{
 

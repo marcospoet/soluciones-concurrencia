@@ -1,4 +1,4 @@
-package com.soluciones.concurrencia.ejercicio5;
+package com.soluciones.concurrencia.semaforos.ejercicio5;
 
 import java.util.concurrent.Semaphore;
 
