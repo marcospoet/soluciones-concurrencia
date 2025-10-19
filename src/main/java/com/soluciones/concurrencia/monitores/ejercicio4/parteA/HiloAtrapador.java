@@ -1,4 +1,4 @@
-package com.soluciones.concurrencia.monitores.ejercicio4;
+package com.soluciones.concurrencia.monitores.ejercicio4.parteA;
 
 public class HiloAtrapador implements Runnable {
     private final MonitorAtrapador monitor;

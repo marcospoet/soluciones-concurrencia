@@ -1,4 +1,4 @@
-package com.soluciones.concurrencia.monitores.ejercicio4;
+package com.soluciones.concurrencia.monitores.ejercicio4.parteA;
 
 public class Ejercicio4 {
     public static void main(String[] args) {

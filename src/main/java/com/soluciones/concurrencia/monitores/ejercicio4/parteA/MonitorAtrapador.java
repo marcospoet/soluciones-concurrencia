@@ -1,4 +1,4 @@
-package com.soluciones.concurrencia.monitores.ejercicio4;
+package com.soluciones.concurrencia.monitores.ejercicio4.parteA;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
