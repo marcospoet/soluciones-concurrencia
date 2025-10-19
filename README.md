@@ -5,8 +5,7 @@ Este repositorio contiene las soluciones a los ejercicios de las guías de traba
 ## Guías
 
 ### Guía 2: Semáforos
-* [Ejercicio 5: Sincronización de Procesos (A)](./src/main/java/com/soluciones/concurrencia/semaforos/ejercicio5)
-* [Ejercicio 5: Sincronización de Procesos (B)](./src/main/java/com/soluciones/concurrencia/semaforos/ejercicio5b)
+* [Ejercicio 5: Sincronización de Procesos (A/B)](./src/main/java/com/soluciones/concurrencia/semaforos/ejercicio5)
 * [Ejercicio 6: Cálculo Concurrente](./src/main/java/com/soluciones/concurrencia/semaforos/ejercicio6)
 
 ---
@@ -15,3 +14,4 @@ Este repositorio contiene las soluciones a los ejercicios de las guías de traba
 * [Ejercicio 2: Secuenciador Ternario](./src/main/java/com/soluciones/concurrencia/monitores/ejercicio2)
 * [Ejercicio 3: Barrera](./src/main/java/com/soluciones/concurrencia/monitores/ejercicio3)
 * [Ejercicio 4: Atrapador](./src/main/java/com/soluciones/concurrencia/monitores/ejercicio4)
+* [Ejercicio 5: Peluquería](./src/main/java/com/soluciones/concurrencia/monitores/ejercicio5)
