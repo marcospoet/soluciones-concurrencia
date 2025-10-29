@@ -1,6 +1,6 @@
 # Soluciones de Concurrencia
 
-Este repositorio contiene las soluciones a los ejercicios de las guías de trabajos prácticos de la materia Programación Concurrente.
+Este repositorio contiene las soluciones a los ejercicios de las guías de trabajos prácticos y modelos de parcial de la materia Programación Concurrente.
 
 ## Guías
 
@@ -15,3 +15,8 @@ Este repositorio contiene las soluciones a los ejercicios de las guías de traba
 * [Ejercicio 3: Barrera](./src/main/java/com/soluciones/concurrencia/monitores/ejercicio3)
 * [Ejercicio 4: Atrapador](./src/main/java/com/soluciones/concurrencia/monitores/ejercicio4)
 * [Ejercicio 5: Peluquería](./src/main/java/com/soluciones/concurrencia/monitores/ejercicio5)
+
+---
+
+### Ejercicios de Parciales / Adicionales
+* [Ejercicio Parcial: Ascensor Kosher (Monitores)](./src/main/java/com/soluciones/concurrencia/monitores/parcial_ascensor)
