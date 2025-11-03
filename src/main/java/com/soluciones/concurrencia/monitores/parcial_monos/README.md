@@ -19,5 +19,7 @@
 > La implementación debe garantizar que:
 >
 > a) Un máximo de cinco monos puedan ejecutar `CrossRavine()` al mismo tiempo.
+> 
 > b) Todos los monos que están ejecutando `CrossRavine()` se dirijan en la misma dirección.
+> 
 > c) Ningún mono debe esperar innecesariamente. Es decir, si hay monos cruzando en una dirección y llega otro que quiere cruzar en esa dirección, puede hacerlo, a pesar de que hay otros monos esperando del otro lado.
