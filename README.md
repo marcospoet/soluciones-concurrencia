@@ -18,5 +18,7 @@ Este repositorio contiene las soluciones a los ejercicios de las guías de traba
 
 ---
 
-### Ejercicios de Parciales / Adicionales
-* [Ejercicio Parcial: Ascensor Kosher (Monitores)](./src/main/java/com/soluciones/concurrencia/monitores/parcial_ascensor)
+### Ejercicios de Parciales / Adicionales (Monitores)
+* [Ejercicio Parcial: Ascensor Kosher](./src/main/java/com/soluciones/concurrencia/monitores/parcial_ascensor)
+* [Ejercicio Parcial: Monos en Barranco](./src/main/java/com/soluciones/concurrencia/monitores/parcial_monos)
+* [Ejercicio Parcial: Autobús Sincronizado](./src/main/java/com/soluciones/concurrencia/monitores/parcial_autobus)
